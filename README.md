@@ -3,6 +3,8 @@ A project detailing understanding of base level plugin development. The demo is 
 
 This patch can be demo'd via PD's editor but currently does not have a downloadable version.
 
-# Preface
+# For Reference
 While the raw code can be interpretted as such, pure data AKA PD is a visual coding language derived from C++ used for patch and plugin development. Each block acts as a method that allows for both digital and analog signal processing.
+
+Find out more here: https://puredata.info/
 
